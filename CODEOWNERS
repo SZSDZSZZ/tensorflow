@@ -12,7 +12,7 @@
 /tensorflow/tools/docs/ @markdaoust
 /tensorflow/compiler/mlir/ @aminim
 /tensorflow/core/ir/ @aminim
-/tensorflow/core/transforms/ @aminim
+/tensorflow/core/transforhyhms/ @aminim
 
 
 /third_party/systemlibs/ @perfinion
